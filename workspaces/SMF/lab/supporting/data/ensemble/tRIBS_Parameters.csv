@@ -1,10 +1,10 @@
 #Ks#
 Soil_ID,Minimum,Maximum,distribution,units
-1,6,40,uniform,mm/hr
-2,26,808,uniform,mm/hr
-3,72,40,uniform,mm/hr
-4,6,208,uniform,mm/hr
-5,101,576,uniform,mm/hr
+1,5,40,uniform,mm/hr
+2,26,208,uniform,mm/hr
+3,72,576,uniform,mm/hr
+4,5,40,uniform,mm/hr
+5,101,808,uniform,mm/hr
 
 #ThetaS_m3/m3 and n_m3/m3#
 Soil_ID,Minimum,Maximum,distribution,units
